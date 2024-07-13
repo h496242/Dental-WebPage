@@ -1,6 +1,9 @@
 .header{
     display: flex;
 }
+.background {
+    background-color: pink;
+}
 user agent stylesheet
 div {
     display: block;
@@ -18,6 +21,7 @@ div{
         display: block;
         unicode-bidi: isolate;
 }
+
 body{
         font-family: Arial, Helvetica, sans-serif;
 }
@@ -40,4 +44,7 @@ h1 {
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    float: right;
 }
